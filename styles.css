@@ -1,0 +1,7 @@
+
+
+body {
+  background-image: linear-gradient(#6bd5e1, #ffd98e);
+}
+hr{border-style: dotted ;border-color: #ff8364 ; width:15%; height:0px;border-top-style:none;border-left-style: none;border-right-style: none;border-width: 5px}
+table{border-collapse: collapse; border-color: blue;}
